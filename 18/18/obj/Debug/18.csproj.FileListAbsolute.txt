@@ -1,0 +1,7 @@
+C:\Users\girzn\Desktop\setul 1\18\18\obj\Debug\18.csproj.AssemblyReference.cache
+C:\Users\girzn\Desktop\setul 1\18\18\obj\Debug\18.csproj.CoreCompileInputs.cache
+C:\Users\girzn\Desktop\setul 1\18\18\bin\Debug\18.exe.config
+C:\Users\girzn\Desktop\setul 1\18\18\bin\Debug\18.exe
+C:\Users\girzn\Desktop\setul 1\18\18\bin\Debug\18.pdb
+C:\Users\girzn\Desktop\setul 1\18\18\obj\Debug\18.exe
+C:\Users\girzn\Desktop\setul 1\18\18\obj\Debug\18.pdb
